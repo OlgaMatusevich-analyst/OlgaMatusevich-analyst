@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1bTdmc251MzRxYWhhaTdzbzZzeDV6eGxmaGtkMDBydGRrYjh3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1bTdmc251MzRxYWhhaTdzbzZzeDV6eGxmaGtkMDBydGRrYjh3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/olgamatusevich/">
