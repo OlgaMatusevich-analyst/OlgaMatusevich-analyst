@@ -18,7 +18,7 @@
 </h1>
 </div>
 
-Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
+Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :dart: В настоящее время фокусируюсь на практическом применении SQL, Python и машинного обучения. 
 
 - :mortar_board: Получила степень бакалавра в НИУ ВШЭ, сейчас обучаюсь в магистратуре по направлению «Бизнес-аналитика и системы больших данных».
@@ -33,8 +33,32 @@
 ---
 
 ### :hammer_and_wrench: Стек технологий :
-  ---
+  
+<!-- Python Badge -->
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
 
+<!-- SQL Badge -->
+<a href="https://en.wikipedia.org/wiki/SQL">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</a>
+<!-- MySQL Badge -->
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</a>
+
+<!-- SQLite Badge -->
+<a href="https://www.sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</a>
+
+<!-- ClickHouse Badge -->
+<a href="https://clickhouse.com/">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse">
+</a>
+
+---
 ### :fire: Статистика :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OlgaMatusevich-analyst&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
