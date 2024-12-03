@@ -13,21 +13,29 @@
 <img 
   src="https://komarev.com/ghpvc/?username=OlgaMatusevich-analyst&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
 </div>
 
-I am Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
-- :dart: As analyst at present I'm focused on gaining practical experience in SQL, Python, and Machine Learning.
+Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
+- :dart: В настоящее время фокусируюсь на практическом применении SQL, Python и машинного обучения. 
 
-- :mortar_board:  I got my bachelor's degree in HSE University and currently I'm pursuing a master's degree in Business Analytics and Big Data.
+- :mortar_board: Получила степень бакалавра в НИУ ВШЭ, сейчас обучаюсь в магистратуре по направлению «Бизнес-аналитика и системы больших данных».
 
--  :bar_chart: I enjoy diving into data, working with metrics and building predictive insights to assist businesses in making data-driven decisions.
+-  :bar_chart: Люблю работать с данными, метриками и строить предиктивные модели, помогая бизнесу принимать решения на основе данных
 
 - :speech_balloon: How to reach me: 
     ![Static Badge](https://img.shields.io/badge/Telegram:-blue)
   [@olyyyaa](https://t.me/olyayyaa)
-    ![Static Badge](https://img.shields.io/badge/email:-green) Olga.mat2908@gmail.com 
+    ![Static Badge](https://img.shields.io/badge/email:-green) Olga.mat2908@gmail.com
 
+---
+
+### :hammer_and_wrench: Стек технологий :
+  ---
+
+### :fire: Статистика :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=OlgaMatusevich-analyst&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
