@@ -1,13 +1,23 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1bTdmc251MzRxYWhhaTdzbzZzeDV6eGxmaGtkMDBydGRrYjh3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/olgamatusevich/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/olyayyaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  
+  <div id="badges" align="center">
+  <!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/olgamatusevich/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+    
+<!-- Telegram Badge -->
+<a href="https://t.me/olyayyaa">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+    
+<!-- Gmail Badge -->
+<a href="mailto:olga.mat2908@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+  
 </div>
 <div id="header" align="center">
 <img 
@@ -62,4 +72,7 @@
 ### :fire: Статистика :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OlgaMatusevich-analyst&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+
+
 
