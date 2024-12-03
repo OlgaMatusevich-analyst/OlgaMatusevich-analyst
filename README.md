@@ -17,12 +17,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
 </div>
-- :space_invader: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+I am Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Russia.
+- :dart: As analyst at present I'm focused on gaining practical experience in SQL, Python, and Machine Learning.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :mortar_board:  I got my bachelor's degree in HSE University and currently I'm pursuing a master's degree in Business Analytics and Big Data.
 
-- :speech_balloon: How to reach me: <a href="https://t.me/olyayyaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+-  :bar_chart: I enjoy diving into data, working with metrics and building predictive insights to assist businesses in making data-driven decisions.
+
+- :speech_balloon: How to reach me: 
+    ![Static Badge](https://img.shields.io/badge/Telegram:-blue)
+  [@olyyyaa](https://t.me/olyayyaa)
+    ![Static Badge](https://img.shields.io/badge/email:-green) Olga.mat2908@gmail.com 
+
 
